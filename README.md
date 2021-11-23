@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning linux customization.
 - 💞️ I’m looking to collaborate on with anyone.
 - 📫 How to reach me - riadkabir45@gmail.com,Erza#5084(Discord)
+- :video_game: I love MOBA genre and currently in mlbb
 
 <!---
 riadkabir45/riadkabir45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
